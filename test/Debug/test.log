@@ -1,0 +1,45 @@
+﻿  Graph.cpp
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(45,10): warning C4305: инициализация: усечение из "Graph_lib::Color::Transparency" в "char"
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(45,46): warning C4309: инициализация: усечение константного значения
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(47,10): warning C4305: инициализация: усечение из "Graph_lib::Color::Transparency" в "char"
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(47,39): warning C4309: инициализация: усечение константного значения
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.cpp(64,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.cpp(130,26): warning C4244: =: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.cpp(131,26): warning C4244: =: преобразование "_Ty1" в "int", возможна потеря данных
+          with
+          [
+              _Ty1=double
+          ]
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.cpp(396,24): warning C4018: >=: несоответствие типов со знаком и без знака
+  GUI.cpp
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(45,10): warning C4305: инициализация: усечение из "Graph_lib::Color::Transparency" в "char"
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(45,46): warning C4309: инициализация: усечение константного значения
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(47,10): warning C4305: инициализация: усечение из "Graph_lib::Color::Transparency" в "char"
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(47,39): warning C4309: инициализация: усечение константного значения
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(107,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(112,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(117,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(130,1): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(130): message : во время компиляции функции-члена класс шаблон "Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)"
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(97): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)"
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(99): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph_lib::Vector_ref<Graph_lib::Button>"
+  Window.cpp
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(45,10): warning C4305: инициализация: усечение из "Graph_lib::Color::Transparency" в "char"
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(45,46): warning C4309: инициализация: усечение константного значения
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(47,10): warning C4305: инициализация: усечение из "Graph_lib::Color::Transparency" в "char"
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(47,39): warning C4309: инициализация: усечение константного значения
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(107,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(112,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(117,39): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\Window.cpp(74,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\Window.cpp(76,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(130,1): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Develop\Cpp\WorkSpaceCpp\test\Graph.h(130): message : во время компиляции функции-члена класс шаблон "Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)"
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(97): message : выполняется компиляция ссылки на экземпляр шаблон функции "Graph_lib::Vector_ref<Graph_lib::Button>::~Vector_ref(void)"
+D:\Develop\Cpp\WorkSpaceCpp\test\GUI.h(99): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph_lib::Vector_ref<Graph_lib::Button>"
+  Создание кода...
+  test.vcxproj -> D:\Develop\Cpp\WorkSpaceCpp\Debug\test.exe
